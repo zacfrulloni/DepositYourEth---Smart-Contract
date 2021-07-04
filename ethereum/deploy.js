@@ -3,9 +3,9 @@ const Web3 = require("web3");
 const deposityoureth = require('./build/DepositYourEth.json');             
 
 const provider = new HDWalletProvider(
-  "million spawn sense chest tenant comic donate client announce nephew potato muscle",
+  "INSERT 12 WORD MNEMONIC",
   // remember to change this to your own phrase!
-  "https://rinkeby.infura.io/v3/e768a62a312643b69864e9d06b2ac4ae"
+  "INSERT RINKEBY INFURA API"
   // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
