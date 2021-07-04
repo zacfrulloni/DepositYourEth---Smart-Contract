@@ -1,5 +1,5 @@
 # DepositYourEth---Smart-Contract
-DepositYourEth is a smart contract that can be used to transact ether between metamask accounts. It is run on the rinkeby test network by using a infura api, no real ether is transacted.
+DepositYourEth is a smart contract that can be used to transact ether between metamask accounts. It is run on the rinkeby test network using an infura api, no real ether is transacted.
 For this case I have used deposits sent from tenants to a landlord. The ether can only be withdrawn from the landlord address.
 Steps to Reproduce:
 
